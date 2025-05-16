@@ -15,28 +15,7 @@ Welcome to my GitHub! I’m a **results-driven Cybersecurity and IT Professional
 - **IT Support:** Troubleshooting 💻, Active Directory, patch management, user training  
 - **Networking:** TCP/IP 🌐, firewalls, VPNs, DNS  
 
----
-
-## 💼 **Professional Experience**  
-
-### **🔹 Data Center Support Officer (National Service)**  
-🏦 *Agricultural Development Bank, Accra* | 📅 *Oct 2024 – Present*  
-- Supported **Active Directory** and authentication systems.  
-- Maintained logs/reports on system performance & incidents.  
-- Automated access provisioning/revocation processes.  
-
-### **🔹 IT Support Intern**  
-🏢 *HEFRA, ADB PLC, The Salvation Army* | 📅 *2022 – 2023*  
-- Resolved hardware/software issues 🛠️ and trained users on cybersecurity best practices.  
-- Assisted in **firewall configurations** and threat analysis.  
-- Documented IT security protocols for compliance.  
-
----
-
-## 🎓 **Education & Certifications**  
 **📜 BSc Computer Science**  
-*University of Cape Coast, Ghana* | 📅 *2021 – 2024*  
-- Coursework: Cybersecurity, Networking, Data Structures , Programming
 
 **📜 Google Certifications**  
 - [Foundations of Cybersecurity](https://coursera.org/verify/T58R2FXQ5MYQ) 🏅  
